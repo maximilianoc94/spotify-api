@@ -1,0 +1,6 @@
+.innerSection{
+    width: 50%;
+    padding: 12px;
+    height: 100vh;
+    overflow-y: scroll;
+}
